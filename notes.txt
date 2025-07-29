@@ -1,0 +1,19 @@
+
+PHP = Hypertext Preprocessor
+PHP = Personal Home Page
+
+PHP (OOP) => 
+
+
+let x = 10;
+var y = 11;
+z = 12;
+
+$x
+
+20, 30
+
+
+for(initialize; range/condition; increment/decrement){
+    //Statement...
+}
